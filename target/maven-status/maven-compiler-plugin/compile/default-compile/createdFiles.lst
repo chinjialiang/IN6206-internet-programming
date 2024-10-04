@@ -1,0 +1,16 @@
+Model\Product.class
+Model\OrderResponse.class
+DAO\CustomerDAO.class
+Servlet\FeedbackServlet.class
+Servlet\RegisterServlet.class
+Model\Order.class
+Filters\CorsFilter.class
+Servlet\ProductServlet.class
+DAO\ProductDAO.class
+Model\Customer.class
+Utils\JDBCUtilsDruid.class
+Servlet\LoginServlet.class
+Servlet\OrderServlet.class
+Utils\HttpUtil.class
+DAO\FeedbackDAO.class
+DAO\OrderDAO.class

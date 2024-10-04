@@ -1,0 +1,1 @@
+the src is the source code folder,the target is the compile code folder I just put the lib in both folder since I dont know where i should put them
